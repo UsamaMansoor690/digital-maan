@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/digital-maan/static/css/main.00ffb26b.css",
+    "main.js": "/digital-maan/static/js/main.9969ca9c.js",
+    "static/js/787.1db3d81e.chunk.js": "/digital-maan/static/js/787.1db3d81e.chunk.js",
+    "static/media/social-media-icons.jpg": "/digital-maan/static/media/social-media-icons.6e9e9c800cb3d2a12de6.jpg",
+    "static/media/item-four.jpg": "/digital-maan/static/media/item-four.4f25c0a6c2276f9f1d38.jpg",
+    "static/media/gallery.jpg": "/digital-maan/static/media/gallery.c4454bd150fdc9571d65.jpg",
+    "static/media/item-six.jpg": "/digital-maan/static/media/item-six.1d0ae4edcabe23b76558.jpg",
+    "static/media/item-three.jpg": "/digital-maan/static/media/item-three.ccd764c96567d043e0ff.jpg",
+    "static/media/heroBackground.jpg": "/digital-maan/static/media/heroBackground.b5478fa7413ee7a492a2.jpg",
+    "static/media/item-five.jpg": "/digital-maan/static/media/item-five.7ad122d3109b1bd4cfb6.jpg",
+    "static/media/item-one.jpg": "/digital-maan/static/media/item-one.1a269ba241eef101c6d9.jpg",
+    "static/media/item-two.jpg": "/digital-maan/static/media/item-two.f6eefa9bf87a5797b290.jpg",
+    "static/media/iphone.jpg": "/digital-maan/static/media/iphone.0bd88d808d93a179676c.jpg",
+    "static/media/features6.svg": "/digital-maan/static/media/features6.ebbd4c804c5bbacc46094fb2f858f644.svg",
+    "index.html": "/digital-maan/index.html",
+    "main.00ffb26b.css.map": "/digital-maan/static/css/main.00ffb26b.css.map",
+    "main.9969ca9c.js.map": "/digital-maan/static/js/main.9969ca9c.js.map",
+    "787.1db3d81e.chunk.js.map": "/digital-maan/static/js/787.1db3d81e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00ffb26b.css",
+    "static/js/main.9969ca9c.js"
+  ]
+}
